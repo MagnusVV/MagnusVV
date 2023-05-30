@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MagnusVV
+- 👋 Hi, I’m Magnus Vargvinter
 - 👀 I’m interested in web development, digital design and expression, computer games, movies and people.
 - 🌱 I’m currently learning wed development at YRGO, Göteborg.
 - 💞️ I’m looking to collaborate on web design projects in the future.
