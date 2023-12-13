@@ -4,7 +4,7 @@
 ## Short, short bits about me
 - 👋 Hi, I’m Magnus Vargvinter.
 - 👀 I’m interested in web development, the web's role in peoples life, digital design and expression, computer and board games, movies and people.
-- 🌱 I’m currently learning wed development at YRGO, Göteborg.
+- 🌱 I’m currently learning wed development at Yrgo, Göteborg.
 - 💞️ My goal is a new career path into web development, and a hope to collaborate on web design projects in the future.
 - 📫 How to reach me: svartkub@msn.com || +46 70 719 02 68 || [LinkedIn](https://se.linkedin.com/in/magnus-vargvinter-415987150) || [Portfolio](https://magnusvargvinter-portfolio.netlify.app/)
 
