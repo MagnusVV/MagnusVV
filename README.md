@@ -3,20 +3,17 @@
 
 ## Short, short bits about me
 - 👋 Hi, I’m Magnus Vargvinter.
-- 👀 I’m interested in web development, the web's role in peoples life, digital design and expression, computer and board games, movies and people.
+- 👀 I’m interested in web development, digital design and expression, computer and board games, movies and people.
 - 🌱 I’m currently learning wed development at Yrgo, Göteborg.
-- 💞️ My goal is a new career path into web development, and a hope to collaborate on web design projects in the future.
+- 💞️ My goal is a new career path into web development, and a hope to collaborate on projects in the future.
 - 📫 How to reach me: svartkub@msn.com || +46 70 719 02 68 || [LinkedIn](https://se.linkedin.com/in/magnus-vargvinter-415987150) || [Portfolio](https://magnusvargvinter-portfolio.netlify.app/)
 
 
-## About this Github profile
-I created this profile at the start of my education early autumn 2022. As of now it consists of repositories with the code from my larger school projects. For myself, it's a nice way to see my own gradual progress in web coding, from simpler PHP projects to more advanced projects using frameworks. For others, it's a good way to follow my journey, but also to get a grasp on the breatdh of what we learn during this web developer course.
+## GitHub Profile Overview:
+Started in autumn 2022, this profile tracks my web coding progress from basic PHP to advanced frameworks during my ongoing education. It houses repositories featuring code from solo and collaborative school projects, with clear credits for contributors. Each repository includes project comments, deployment links, and some have code reviews.
 
-### So what's on here?
-As mentioned above, one will find a handful of repositories with the code from my school projects. Some projects are entirely my own, while others are collaborations with other students. In the case of collaborations, the other participants' names (or nicks) will be credited, and forked repositories will be shown as forked. Every repository will have some small comments about its project, and a link if it's been deployed. A number of them also contains code reviews from fellow students.
-
-### The future
-I'm now halfway through the course, so the idea is for the amount of finished projects here to grow, including the large graduation project come this autumn (scary but exciting). The final semester, January to June 2024, will be dedicated entirely to LIA (workplace-based learning), so what happens with this space during that time I don't really know yet. I bet it will be put to good use, though. 😀
+### Future Plans:
+At the halfway point in my course, I plan to add more finished projects, including a significant graduation project in autumn. The final semester (January to June 2024) will be dedicated to workplace-based learning (LIA), with the future use of this space yet to be determined. Exciting times ahead! 😄
 <!---
 MagnusVV/MagnusVV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
